@@ -1,9 +1,0 @@
-# ChangeLog for mail-client/spicebird-bin
-# Copyright 1999-2008 Gentoo Foundation; Distributed under the GPL v2
-# $Header: $
-
-  31 Dec 2008; <fred@gentoo.org> +files/10spicebird-bin,
-  +files/71spicebird-bin, +files/icon/spicebird-bin.desktop,
-  +files/icon/spicebird16.xpm, +spicebird-0.7.ebuild:
-  Initial import.
-

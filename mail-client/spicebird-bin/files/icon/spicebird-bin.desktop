@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=SpiceBird
-Comment=Mail & News Reader
-Exec=/usr/bin/spicebird-bin
-Icon=spicebird16.xpm
-Terminal=false
-Type=Application
-Categories=Office;Email;
